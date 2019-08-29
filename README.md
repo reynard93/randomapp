@@ -1,26 +1,5 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## Available Scripts
-
-### `npm start`
-
-Runs the app in the development mode.<br>
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
-
-### `npm run build`
-
-Builds the app for production to the `build` folder.<br>
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.<br>
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-## Learn More
-
-etc, etc, all the same as a normal CRA readme
-
 ### Steps 
   >> json-server --watch -p 4000 example.json
   >>> npm run start
@@ -37,6 +16,14 @@ The first page displays the example.json in a table with filtering and sorting c
 
 The second page displays a div with default text which can be replaced with a custom text through the input box above.
 
-Think all the requirements are hit. 
-Improvements: 
-more styling can be done and sort by date too through date parsing. 
+Improvements:
+
+Loader / Pagination / Tooltip (for sort) / Refactoring / Focus / Aria
+
+Actually did an app similar to this before using goodreads api.
+https://www.youtube.com/watch?v=E8wSB8Pn_Xs&feature=youtu.be 
+flask goodreads api skip to 0:38
+
+https://medium.com/@agoiabeladeyemi/pagination-in-reactjs-36f4a6a6eb43
+
+https://stackoverflow.com/questions/25566307/searching-algorithm-with-complexity-olog-n-unsorted-list-array

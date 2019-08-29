@@ -3,4 +3,5 @@ import PageTwo from "./PageTwo";
 import PageLand from "./PageLand";
 import Bookstable from './Bookstable'
 import Navbah from "./Navbah";
-export { PageOne, PageTwo, PageLand, Navbah, Bookstable };
+import Spinner from './UI/Spinner';
+export { PageOne, PageTwo, PageLand, Navbah, Bookstable, Spinner };
