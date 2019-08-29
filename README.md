@@ -1,8 +1,10 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-### Steps 
-  >> json-server --watch -p 4000 example.json
-  >>> npm run start
+### Steps
+
+> > json-server --watch -p 4000 example.json
+> >
+> > > npm run start
 
 ### HOW IT WORKS
 
@@ -21,9 +23,7 @@ Improvements:
 Loader / Pagination / Tooltip (for sort) / Refactoring / Focus / Aria
 
 Actually did an app similar to this before using goodreads api.
-https://www.youtube.com/watch?v=E8wSB8Pn_Xs&feature=youtu.be 
+https://www.youtube.com/watch?v=E8wSB8Pn_Xs&feature=youtu.be
 flask goodreads api skip to 0:38
-
-https://medium.com/@agoiabeladeyemi/pagination-in-reactjs-36f4a6a6eb43
 
 https://stackoverflow.com/questions/25566307/searching-algorithm-with-complexity-olog-n-unsorted-list-array
